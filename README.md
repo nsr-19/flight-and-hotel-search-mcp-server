@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Running the MCP Inspector
 
-### Step 1: Start Your Dev Server
+### Start Your Dev Server
 
 First, start your MCP server:
 
@@ -42,14 +42,14 @@ python main.py
 
 The server should be running and ready to accept connections.
 
-### Step 2: Launch MCP Inspector
+### Launch MCP Inspector
 
 
 ```bash
 mcp dev main.py
 ```
 
-### Step 3: Access the Inspector UI
+#### Step 3: Access the Inspector UI
 
 The inspector will automatically open in your default browser.
 
