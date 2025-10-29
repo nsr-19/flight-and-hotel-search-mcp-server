@@ -49,7 +49,7 @@ The server should be running and ready to accept connections.
 mcp dev main.py
 ```
 
-#### Step 3: Access the Inspector UI
+##### Access the Inspector UI
 
 The inspector will automatically open in your default browser.
 
